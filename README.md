@@ -16,7 +16,8 @@ Instead of relying on expensive API calls to massive foundation models, this pro
 ## 📊 Batch Inference Results
 After fine-tuning, the model is capable of zero-shot categorization of messy support tickets into structured labels suitable for downstream analytics pipelines (e.g., Looker Studio / PowerBI).
 
-![Inference Results](model_inference_results.png)
+<img width="1117" height="569" alt="image" src="https://github.com/user-attachments/assets/805f4c98-8efc-4c4c-b08f-7285fa65bee2" />
+
 
 ## 🚀 How to Run
 Click the "Open in Colab" badge above. The notebook is fully self-contained. It will:
